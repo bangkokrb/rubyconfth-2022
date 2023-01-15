@@ -6,6 +6,14 @@
 
 This is an archived version of the conference website. The current website can be accessed in [a distinct repository](https://github.com/bangkokrb/rubyconfth). 
 
+## Getting started
+
+Rub the site locally:
+
+```shell
+$ ruby -run -e httpd . -p 3000
+```
+
 ## License
 
 This project is Copyright (c) 2018-2022 bangkok.rb. It is free software,
